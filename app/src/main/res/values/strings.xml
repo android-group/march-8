@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">С 8 Марта</string>
+    <string name="action_settings">Настройки</string>
+    <string name="section_format">Секция: %1$d</string>
+    <string name="no">Нет</string>
+    <string name="yes">Да</string>
+    <string name="ask_her">Ты выйдешь за меня замуж?</string>
+    <string name="ask_her2">Зайка, ты выйдешь за меня?</string>
+    <!--<string name="ga_trackingId" translatable="false">UA-47698668-7</string>-->
+</resources>
