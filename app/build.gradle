@@ -12,12 +12,12 @@ android {
         versionName "2016.03.08"
     }
     signingConfigs {
-        release {
-            storeFile file('D:/android-projects/check/march8/app/keystore.jks')
-            storePassword "6305864750*Cc"
-            keyAlias "AndroidKey"
-            keyPassword "6305864750*Cc"
-        }
+//        release {
+//            storeFile file('keystore.jks')
+//            storePassword ""
+//            keyAlias ""
+//            keyPassword ""
+//        }
     }
     buildTypes {
         release {
